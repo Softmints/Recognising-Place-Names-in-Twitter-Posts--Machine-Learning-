@@ -1,0 +1,85 @@
+aboard
+about
+above
+across
+after
+against
+along
+amid
+among
+anti
+around
+as
+at
+before
+behind
+below
+beneath
+beside
+besides
+between
+beyond
+but
+by
+concerning
+considering
+despite
+down
+during
+east
+except
+excepting
+excluding
+following
+for
+from
+in
+inside
+into
+like
+minus
+near
+north
+of
+off
+on
+onto
+opposite
+outside
+over
+past
+per
+plus
+regarding
+round
+save
+since
+south
+than
+through
+to
+toward
+towards
+under
+underneath
+unlike
+until
+up
+upon
+versus
+via
+west
+with
+within
+without
+north of
+south of
+west of
+east of
+close to
+far from
+near to
+next to
+outside of
+in front of
+on top of
